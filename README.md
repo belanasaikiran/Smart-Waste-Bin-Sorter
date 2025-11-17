@@ -19,6 +19,9 @@ An intelligent waste sorting system that uses computer vision and machine learni
 
 ## System Architecture
 
+<img src="Architecture.png" alt="System Architecture" width="600">
+
+
 ```
 ┌─────────────────┐    ┌─────────────────┐     ┌─────────────────┐
 │   Raspberry Pi  │    │     Arduino     │     │   Servo Motor   │
